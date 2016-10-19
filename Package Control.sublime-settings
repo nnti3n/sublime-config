@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"JSX",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"ReactJS",
+		"Ruby Slim",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Terminal"
+	]
+}

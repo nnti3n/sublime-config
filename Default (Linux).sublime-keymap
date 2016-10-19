@@ -1,0 +1,4 @@
+[
+	{ "keys": ["f12"], "command": "reindent"},
+	{ "keys": ["shift+shift"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} }
+]
